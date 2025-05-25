@@ -1,7 +1,7 @@
 
  <p style="display: flex; align-items: center; gap: 10px; font-size: 24px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJ3c2RvMTgxejU1NWVscmxqOTRnaDZvMGk1azV3cnE2M2VraTg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GUIlE3bi84TOjGzSo1/giphy.gif" width="100" />
-  Welcome Hello Word
+  <h1>Welcome Hello Word</h1>
 </p>
 
 <p> 🌟 Hola, soy Badelyn. Soy estudiante de informática y apasionada por el desarrollo de aplicaciones, los idiomas y el emprendimiento.
@@ -15,14 +15,14 @@
 
 <img src="bannerbadelynbourdon.png" width="" alt="Banner de Badelyn" />
 
-#Comunidad
+<h1> Comunidades</h1>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-#Tecnologias 
+<h1> Tecnologias</h1>
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
